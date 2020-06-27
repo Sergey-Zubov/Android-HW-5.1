@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android-HW-5.1</string>
+    <string name="main_activity_name">Заметки</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="edit_text_hint">Введите заметку</string>
+    <string name="text_saved">Заметка сохранена</string>
+    <string name="edit_text_is_empty">Введите заметку!</string>
+</resources>
